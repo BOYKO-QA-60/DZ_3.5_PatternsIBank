@@ -1,4 +1,4 @@
-package ru.netology.patterns;
+package ru.netology.patterns.ibank.data;
 
 import com.github.javafaker.Faker;
 import io.restassured.builder.RequestSpecBuilder;
@@ -68,3 +68,4 @@ public class DataGenerator {
         String status;
     }
 }
+
